@@ -1,0 +1,6 @@
+@مشروع_قبل_الشغل_HostAddress = http://localhost:5012
+
+GET {{مشروع_قبل_الشغل_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
