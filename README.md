@@ -1,0 +1,1 @@
+This project is a RESTful API built with ASP.NET Core and SQL Server. It uses JWT-based authentication to secure endpoints, supports full CRUD operations for the main entities, and includes structured logging to track requests, errors, and business events.
